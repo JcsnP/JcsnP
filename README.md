@@ -1,8 +1,14 @@
-<p align="center>
+<p style="center">
     <img src="https://github.githubassets.com/images/mona-whisper.gif" width="100 px">
-</p>
+    <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="100 px">
+    <img src="https://i.pinimg.com/originals/76/fb/b4/76fbb42d1fb0d651275d3bac94812de8.gif" width="140 px">
+    <img src="https://media.tenor.com/images/b60f2d8177b06816c855ec99fc1c52ca/tenor.gif" width="100 px">
+    <img src="https://media.tenor.com/images/a9adda18a785b1cb85eec04517d99178/tenor.gif" width="80 px">
+</ p>
 
 ### Hi my name is Chitsanupong <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br />
+
 ## I'm a Newbie Developer, Student, Gamer, Photographer 📸
 
 **What's programming language you use ?**
@@ -15,13 +21,6 @@
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Git](https://git-scm.com/downloads)
-
-### Connect with me 📬: 
-<p align="center">
-    [<img alt="JCSNP | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Twitter
-    [<img alt="JCSNP | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] Instagram
-</p>
-
 
 ### Hobbies 💡:
 - 🎮 Playing Games (Unturned, theHunter: Call of the Wild, Scrap Mechanic)
