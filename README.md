@@ -21,6 +21,7 @@
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Git](https://git-scm.com/downloads)
+- [VIM](https://www.vim.org/)
 
 ### Hobbies 💡:
 - 🎮 Playing Games (Unturned, theHunter: Call of the Wild, Scrap Mechanic)
