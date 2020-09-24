@@ -28,6 +28,7 @@
 - 📸 Photograph
 - 🔎 Watch Youtube
 - 🎧 Listen Music
+- 👨🏼‍💻 Coding
   
 ### What's your interested ⚡:
 - 🔭 Astrophotography
