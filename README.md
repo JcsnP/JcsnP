@@ -6,35 +6,42 @@
     <img src="https://media.tenor.com/images/a9adda18a785b1cb85eec04517d99178/tenor.gif" width="80 px">
 </ p>
 
-### Hi my name is Chitsanupong <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi my name is Chitsanupong <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My nickname is James. You can call me "JcsnP"
 <br />
 
 ## I'm a Newbie Developer, Student, Gamer, Photographer 📸
 
 **What's programming language you use ?**
-- C++
-- JavaScript
-- Python
+- C++ (basic, learn for know algorithm)
+- JavaScript (learn for make some web)
+- Python (🐍)
+- Java (for making minecraft mod)
 
-**What's program, IDE and software you use ?**
+**🗜 What's program, IDE and software you use ?**
 - [VS CODE](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Git](https://git-scm.com/downloads)
 - [VIM](https://www.vim.org/)
 
-### Hobbies 💡:
-- 🎮 Playing Games (Unturned, theHunter: Call of the Wild, Scrap Mechanic)
+### 💡 Hobbies:
+- 🎮 Playing Games (Unturned, theHunter: Call of the Wild, Scrap Mechanic, Minecraft)
 - 📸 Photograph
 - 🔎 Watch Youtube
 - 🎧 Listen Music
 - 👨🏼‍💻 Coding
   
-### What's your interested ⚡:
+### ⚡ What's your interested:
 - 🔭 Astrophotography
 - 📡 **Radio Astronomy**
 - 📟 Technology
 - ⚔️ **Programming**
+
+### Music for github and stack overflow or good music when you coding
+- 🌟 [Good Music](https://www.youtube.com/watch?v=U06jlgpMtQs)
+- ⭐️ [Good Music too](https://www.youtube.com/watch?v=o8-Bj5ACAMw)
+- ✨ [Not bad...](https://www.youtube.com/watch?v=YiloegUaxwk)
 
 
 <!--🏆 Stat-->
@@ -43,9 +50,7 @@
 <!--🎧 Spotify -->
 
 ### Spotify 🎧:
-<p align="center">
-    <a target="_blank" href="#"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=03p7i4h07gxipvtb2mmhp9z4y&cover_image=true" />
-</p>
+<a target="_blank" href="#"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=03p7i4h07gxipvtb2mmhp9z4y&cover_image=true" />
 
 [twitter]: https://twitter.com/James_JcsnP 
 [instagram]: https://www.instagram.com/jcsnp__photography/?hl=th
