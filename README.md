@@ -24,6 +24,7 @@ My nickname is James. You can call me "JcsnP"
 - [Sublime Text](https://www.sublimetext.com/)
 - [Git](https://git-scm.com/downloads)
 - [VIM](https://www.vim.org/)
+- [Geany](https://www.geany.org/)
 
 ### 💡 Hobbies:
 - 🎮 Playing Games (Unturned, theHunter: Call of the Wild, Scrap Mechanic, Minecraft)
