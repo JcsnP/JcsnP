@@ -48,10 +48,5 @@ My nickname is James. You can call me "JcsnP"
 <!--🏆 Stat-->
 ![JcsnP's github stats](https://github-readme-stats.vercel.app/api?username=JcsnP&show_icons=true&theme=dark)
 
-<!--🎧 Spotify -->
-
-### Spotify 🎧:
-<a target="_blank" href="#"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=03p7i4h07gxipvtb2mmhp9z4y&cover_image=true" />
-
 [twitter]: https://twitter.com/James_JcsnP 
 [instagram]: https://www.instagram.com/jcsnp__photography/?hl=th
