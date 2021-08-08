@@ -10,7 +10,7 @@
 My nickname is James. You can call me "JcsnP"
 <br />
 
-## I'm a Newbie Developer, Student, Gamer, Photographer 📸
+## I'm a Newbie Developer, Student, Gamer
 
 **What's programming language you use ?**
 - C++ (basic, learn for know algorithm)
