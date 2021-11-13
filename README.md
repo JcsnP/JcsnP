@@ -10,40 +10,19 @@
 My nickname is James. You can call me "JcsnP"
 <br />
 
-## I'm a Newbie Developer, Student, Gamer
+## I'm a Newbie Develope and Gamer
 
 **What's programming language you use ?**
 - C++ (basic, learn for know algorithm)
 - JavaScript (learn for make some web)
 - Python (🐍)
 - Java (for making minecraft mod)
-
-**🗜 What's program, IDE and software you use ?**
-- [VS CODE](https://code.visualstudio.com/)
-- [Atom](https://atom.io/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Git](https://git-scm.com/downloads)
-- [VIM](https://www.vim.org/)
-- [Geany](https://www.geany.org/)
-
-### 💡 Hobbies:
-- 🎮 Playing Games (Unturned, theHunter: Call of the Wild, Scrap Mechanic, Minecraft)
-- 📸 Photograph
-- 🔎 Watch Youtube
-- 🎧 Listen Music
-- 👨🏼‍💻 Coding
   
 ### ⚡ What's your interested:
 - 🔭 Astrophotography
 - 📡 **Radio Astronomy**
 - 📟 Technology
 - ⚔️ **Programming**
-
-### Music for github and stack overflow or good music when you coding
-- 🌟 [Good Music](https://www.youtube.com/watch?v=U06jlgpMtQs)
-- ⭐️ [Good Music too](https://www.youtube.com/watch?v=o8-Bj5ACAMw)
-- ✨ [Not bad...](https://www.youtube.com/watch?v=YiloegUaxwk)
-
 
 <!--🏆 Stat-->
 ![JcsnP's github stats](https://github-readme-stats.vercel.app/api?username=JcsnP&show_icons=true&theme=dark)
