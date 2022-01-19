@@ -9,23 +9,4 @@
 ## Hi my name is Chitsanupong <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My nickname is James. You can call me "JcsnP"
 <br />
-
-## I'm a Newbie Develope and Gamer
-
-**What's programming language you use ?**
-- C++ (basic, learn for know algorithm)
-- JavaScript (learn for make some web)
-- Python (🐍)
-- Java (for making minecraft mod)
-  
-### ⚡ What's your interested:
-- 🔭 Astrophotography
-- 📡 **Radio Astronomy**
-- 📟 Technology
-- ⚔️ **Programming**
-
-<!--🏆 Stat-->
-![JcsnP's github stats](https://github-readme-stats.vercel.app/api?username=JcsnP&show_icons=true&theme=dark)
-
-[twitter]: https://twitter.com/James_JcsnP 
-[instagram]: https://www.instagram.com/jcsnp__photography/?hl=th
+🌎 [My Website](https://youtu.be/dQw4w9WgXcQ)
