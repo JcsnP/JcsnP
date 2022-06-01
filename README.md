@@ -8,7 +8,7 @@
 </ p>
 -->
 
-## Hi there, I'm JcsnP <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm JcsnP <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 A student in software engineering and interested in computer science.
 <br />
 🌎 [My Website](https://youtu.be/dQw4w9WgXcQ)
