@@ -8,6 +8,7 @@
 </ p>
 -->
 
+<!--
 ## Hi there, I'm JcsnP <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 A student in software engineering and interested in computer science.
 <br />
@@ -40,3 +41,11 @@ A student in software engineering and interested in computer science.
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 -->
+
+Hi, I'm James.
+
+🌿 I'm currently working on something cool (maybe).
+
+💻 I'm currently learning React Natve, React.js and C++
+
+🗿 My website -> https://jcsnp-portfolio.herokuapp.com/
