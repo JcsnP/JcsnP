@@ -48,4 +48,4 @@ Hi, I'm James.
 
 💻 I'm currently learning React Natve, React.js and C++
 
-🗿 My website -> https://jcsnp-portfolio.herokuapp.com/
+🗿 My website -> https://jcsnp-portfolio.vercel.app/
