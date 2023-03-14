@@ -4,7 +4,7 @@
 
 💻 I'm currently learning React Natve, React.js and C++
 
-🗿 [My website](https://jcsnp-portfolio.vercel.app/)
+🗿 [My Website](https://jcsnp-portfolio.vercel.app/)
 
 🗿 [Code::Stats](https://jcsnp-portfolio.vercel.app/)
 
