@@ -6,7 +6,7 @@
 
 🗿 [My Website](https://jcsnp-portfolio.vercel.app/)
 
-🗿 [Code::Stats](https://jcsnp-portfolio.vercel.app/)
+🗿 [Code::Stats](https://codestats.net/users/JcsnP)
 
 ## Tech Stack
 ### Advanced
