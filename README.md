@@ -8,6 +8,10 @@
 
 🗿 [Code::Stats](https://codestats.net/users/JcsnP)
 
+📱 [Mobile App Project](https://github.com/JcsnP/MyPace)
+
+🗂️ [CKAN frontend project](https://github.com/JcsnP/datasets-with-ckan-demo-frontend)
+
 ## Tech Stack
 ### Advanced
 [![My Advanced Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,postman,react,express,gitgub)](https://skillicons.dev)
