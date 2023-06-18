@@ -12,6 +12,7 @@
 
 🗂️ [CKAN frontend project](https://github.com/JcsnP/datasets-with-ckan-demo-frontend)
 
+<!--
 ## Tech Stack
 ### Advanced
 [![My Advanced Skills](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,postman,react,express,gitgub)](https://skillicons.dev)
@@ -23,7 +24,6 @@
 ### Currently learning
 [![interested in](https://skillicons.dev/icons?i=babel,flutter,kotlin,redis,threejs,vim)](https://skillicons.dev)
 
-<!--
 ### My Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=JcsnP&theme=dark&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
