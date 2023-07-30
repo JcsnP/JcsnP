@@ -1,8 +1,12 @@
 # Hi, I'm Chitsanupong Paenyoi
 
+
+
 🌿 I'm currently working on something cool (maybe).
 
-💻 I'm currently learning React Natve, React.js and C++
+💻 I'm currently learning React Native, React.js and C++
+
+🎮 I'm interested in game development, using [Godot Engine](https://github.com/godotengine/godot) and [Aseprite](https://github.com/aseprite/aseprite).
 
 🗿 [My Website](https://jcsnp-portfolio.vercel.app/)
 
