@@ -8,7 +8,7 @@
 
 🎮 I'm interested in game development, using [Godot Engine](https://github.com/godotengine/godot) and [Aseprite](https://github.com/aseprite/aseprite).
 
-🗿 [My Website](https://jcsnp-portfolio.vercel.app/)
+🗿 [My Blog](https://blog.jcsnp.me/)
 
 🗿 [Code::Stats](https://codestats.net/users/JcsnP)
 
