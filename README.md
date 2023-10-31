@@ -2,11 +2,14 @@
 
 
 
-🌿 I'm currently working on something cool (maybe).
+🌿 I'm currently working on something cool (maybe)
 
 💻 I'm currently learning React Native, React.js and C++
 
-🎮 I'm interested in game development, using [Godot Engine](https://github.com/godotengine/godot) and [Aseprite](https://github.com/aseprite/aseprite).
+<!-- 🎮 I'm interested in game development, using [Godot Engine](https://github.com/godotengine/godot) and [Aseprite](https://[a;sd;l'a;lsd 
+  github.com/aseprite/aseprite). -->
+
+📱 I'm currently intern as a flutter dev
 
 🗿 [My Blog](https://blog.jcsnp.me/)
 
