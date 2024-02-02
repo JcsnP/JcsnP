@@ -4,20 +4,22 @@
 
 🌿 I'm currently working on something cool (maybe)
 
-💻 I'm currently learning React Native, React.js and C++
+💻 I'm currently learning Golang and Next.js
 
 <!-- 🎮 I'm interested in game development, using [Godot Engine](https://github.com/godotengine/godot) and [Aseprite](https://[a;sd;l'a;lsd 
   github.com/aseprite/aseprite). -->
 
 📱 I'm currently intern as a flutter dev
 
-🗿 [My Blog](https://blog.jcsnp.me/)
+🗿 [My Blog](https://blog.jcsnp.me/) (Currently under development)
 
 🗿 [Code::Stats](https://codestats.net/users/JcsnP)
 
 📱 [Mobile App Project](https://github.com/JcsnP/MyPace)
 
+<!--
 🗂️ [CKAN frontend project](https://github.com/JcsnP/datasets-with-ckan-demo-frontend)
+-->
 
 <!--
 ## Tech Stack
