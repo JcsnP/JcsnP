@@ -1,10 +1,11 @@
 # Hi, I'm Chitsanupong Paenyoi
 
 
-
+<!--
 🌿 I'm currently working on something cool (maybe)
 
 💻 I'm currently learning Golang, Next.js and Flutter
+-->
 
 <!-- 🎮 I'm interested in game development, using [Godot Engine](https://github.com/godotengine/godot) and [Aseprite](https://[a;sd;l'a;lsd 
   github.com/aseprite/aseprite). -->
